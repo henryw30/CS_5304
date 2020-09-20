@@ -1,2 +1,5 @@
 *.vscode
 *.DS_STORE
+assignment0/cond_bigram
+assignment0/wordcount
+assignment0/bigrams
